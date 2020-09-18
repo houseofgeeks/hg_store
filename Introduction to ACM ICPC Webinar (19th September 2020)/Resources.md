@@ -26,7 +26,7 @@ William Fiset Graph Theory course https://www.youtube.com/watch?v=DgXR2OWQnLc&li
 Atcoder DP educational round https://atcoder.jp/contests/dp<br>
 CodeNcode https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ<br>
 Tushar Roy https://www.youtube.com/user/tusharroy2525<br>
-3blue1brown for maths youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw <br>
+3blue1brown for maths https://youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw <br>
 Mathologer for maths https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg<br>
 Tim roughgarden's stanford algorithms course https://www.coursera.org/specializations/algorithms<br>
 Codeforces blogs<br>
