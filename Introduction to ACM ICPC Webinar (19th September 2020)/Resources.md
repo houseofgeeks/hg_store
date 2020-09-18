@@ -19,8 +19,6 @@ STL from geeksforgeeks https://www.geeksforgeeks.org/the-c-standard-template-lib
 Mathematics upto class 12th (P&C, Probability, Matrices, etc.)<br>
 
 
-
-
 <h2>Intermediate level - II (learning intermediate data structures, algorithms and paradigms) </h2>
 Introduction to algorithms (CLRS)<br>
 MIT 6.006 https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb<br>
@@ -30,6 +28,7 @@ CodeNcode https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ<br>
 Tushar Roy https://www.youtube.com/user/tusharroy2525<br>
 3blue1brown for maths youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw <br>
 Mathologer for maths https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg<br>
+Tim roughgarden's stanford algorithms course https://www.coursera.org/specializations/algorithms<br>
 Codeforces blogs<br>
 
 
@@ -37,6 +36,8 @@ Codeforces blogs<br>
 Introduction to algorithms (CLRS)<br>
 List of Codeforces blogs for advance topics https://codeforces.com/blog/entry/57282<br>
 Gaurav Sen's videos on DSA https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw<br>
+Robert Sedgewick Princeton algorithms course (I and II) (Selected Topics) https://www.coursera.org/learn/algorithms-part1<br>
+SecondThread https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g<br>
 Number Theory by David M. Burton<br>
 Computational Matters (for list of topics and reference only)<br>
 
