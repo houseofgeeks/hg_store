@@ -32,6 +32,11 @@ void O(T x) {
 	cout << x << '\n';
 }
 
+template <typename T>
+void __error(T x) {
+	cerr << x << '\n';
+}
+
 ///////////////////////////////////CODE STARTS HERE///////////////////////////////////////////
 
 int32_t main() {
