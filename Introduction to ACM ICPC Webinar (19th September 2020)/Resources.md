@@ -9,6 +9,10 @@ CodeWithHarry C++ course (Hindi) https://www.youtube.com/watch?v=j8nAHeVKL08&lis
 Pointers course by mycodeschool https://www.youtube.com/watch?v=h-HBipu_1P0&list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_<br>
 Saurab Shukla C++ course (Hindi) https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF<br>
 FreeCodeCamp https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ<br>
+<h4>Extras</h4>
+Ted-ed riddles https://www.youtube.com/watch?v=N5vJSNXPEwA&list=PLJicmE8fK0EiFRt1Hm5a_7SJFaikIFW30<br>
+Numberphile https://www.youtube.com/results?search_query=numberphile<br>
+Computerphile https://www.youtube.com/user/Computerphile<br>
 
 <h2>Intermediate level - I (searching, sorting and basic data structures/algorithms) </h2>
 Solve CLRS and watch various youtube videos for asymptotic notations and different sorting techniques<br>
@@ -29,10 +33,11 @@ Tushar Roy https://www.youtube.com/user/tusharroy2525<br>
 3blue1brown for maths https://youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw <br>
 Mathologer for maths https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg<br>
 Tim roughgarden's stanford algorithms course https://www.coursera.org/specializations/algorithms<br>
+Codechef DSA learning series https://www.codechef.com/LEARNDSA<br>
 Codeforces blogs<br>
 
 
-<h2>Advance level (learning basic data structures and algorithms) </h2>
+<h2>Advance level</h2>
 Introduction to algorithms (CLRS)<br>
 List of Codeforces blogs for advance topics https://codeforces.com/blog/entry/57282<br>
 Gaurav Sen's videos on DSA https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw<br>
