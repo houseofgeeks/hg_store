@@ -18,6 +18,7 @@ Computerphile https://www.youtube.com/user/Computerphile<br>
 Solve CLRS and watch various youtube videos for asymptotic notations and different sorting techniques<br>
 mycodeschool DSA, searching and sorting courses https://www.youtube.com/user/mycodeschool<br>
 Hackerrank Data Structures (problems related to mycodeschool) https://www.hackerrank.com/domains/data-structures<br>
+Back to Back SWE https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA<br>
 Basic (filtered) interview problems from geeksforgeeks https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemType=functional&page=1&sortBy=submissions<br>
 STL from geeksforgeeks https://www.geeksforgeeks.org/the-c-standard-template-library-stl/ <br>
 Mathematics upto class 12th (P&C, Probability, Matrices, etc.)<br>
@@ -34,6 +35,7 @@ Tushar Roy https://www.youtube.com/user/tusharroy2525<br>
 Mathologer for maths https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg<br>
 Tim roughgarden's stanford algorithms course https://www.coursera.org/specializations/algorithms<br>
 Codechef DSA learning series https://www.codechef.com/LEARNDSA<br>
+Rachit Jain DP zero to hero https://www.youtube.com/watch?v=tb_14w_-mNw&list=PLfBJlB6T2eOtMXgK3FLUTawHjzpIEySHF<br>
 Codeforces blogs<br>
 
 
@@ -43,6 +45,7 @@ List of Codeforces blogs for advance topics https://codeforces.com/blog/entry/57
 Gaurav Sen's videos on DSA https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw<br>
 Robert Sedgewick Princeton algorithms course (I and II) (Selected Topics) https://www.coursera.org/learn/algorithms-part1<br>
 SecondThread https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g<br>
+Errichto https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg<br>
 Number Theory by David M. Burton<br>
 Computational Matters (for list of topics and reference only)<br>
 
