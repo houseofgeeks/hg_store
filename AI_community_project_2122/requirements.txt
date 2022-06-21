@@ -1,0 +1,17 @@
+gensim
+tqdm
+spacy
+regex
+numpy
+matplotlib
+fastapi
+uvicorn
+pydantic
+pandas
+sklearn
+nltk
+keybert
+torch
+tensorflow
+seaborn
+python-multipart
