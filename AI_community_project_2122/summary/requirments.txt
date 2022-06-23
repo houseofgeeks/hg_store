@@ -1,0 +1,12 @@
+numpy
+pandas
+spacy
+nltk
+regex
+tqdm
+fastapi
+sklearn
+joblib
+gensim
+os
+string
